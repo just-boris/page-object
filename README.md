@@ -59,4 +59,4 @@ const {component, page} = setup(data);
 
 ## Examples
 
-* React [examples/react]
+* [React](examples/react)
