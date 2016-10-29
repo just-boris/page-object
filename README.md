@@ -91,3 +91,4 @@ function Page(component) {
 
 * [React](examples/react)
 * [Backbone](examples/backbone)
+* [Vue](examples/vue)
